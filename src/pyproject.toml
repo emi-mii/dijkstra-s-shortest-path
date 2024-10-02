@@ -3,10 +3,10 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "graphs_emelend"
+name = "graphs_emelend4"
 version = "0.0.1"
 authors = [
-  { name="Emily Melendez", email="author@example.com" },
+  { name="Emily Melendez", email="emelend4@msudenver.edu" },
 ]
 description = "Dijkstra's shortest path algorithm and other paths"
 readme = "README.md"
